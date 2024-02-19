@@ -68,6 +68,3 @@ Contributions are welcome! If you have any ideas, enhancements, or bug fixes, fe
 
 ---
 
-**Note:** Replace `./path/to/your/demo/image.png` with the actual path to your demo image and update URLs and paths accordingly.
-
-Feel free to customize this README to better suit your project and provide more details about how to use the app or contribute to the project.
