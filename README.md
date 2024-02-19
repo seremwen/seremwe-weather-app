@@ -6,7 +6,9 @@
 
 ## Overview
 
-This Weather App is built using React JS to provide users with current weather information based on the city they enter. The application fetches data from the OpenWeatherMap API to display details such as temperature, weather condition, humidity, and wind speed.
+This Weather App is built using React JS to provide users with current weather information based on the
+ city they enter. The application fetches data from the OpenWeatherMap API to display details such as
+temperature, weather condition, humidity, and wind speed.
 
 ## Features
 
