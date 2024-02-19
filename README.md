@@ -3,7 +3,6 @@ Certainly! Here's a template for your GitHub repository's README.md file for the
 ```markdown
 # Weather App using React JS
 
-![Weather App Demo](./path/to/your/demo/image.png)
 
 ## Overview
 
@@ -22,13 +21,13 @@ Follow these steps to run the Weather App locally on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-weather-app.git
+   git clone https://github.com/seremwen/seremwe-weather-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-weather-app
+   cd seremwe-weather-app
    ```
 
 3. Install dependencies:
@@ -59,9 +58,7 @@ let apiKey = "your-api-key";
 
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
 
-This Weather App is open-source and available under the [MIT License](./LICENSE).
 
 ## Acknowledgments
 
