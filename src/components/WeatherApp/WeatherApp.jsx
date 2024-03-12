@@ -18,8 +18,7 @@ const WeatherApp = () => {
     if (element[0].value === "") {
       return 0;
     }
-
-    let url = `https://api.openweathermap.org/data/2.5/weather?q=${element[0].value}&appid=${apiKey}`;
+    let url=`http://localhost:9001/api/v1/weather/${element[0].value}`
     let response = await fetch(url);
     let data = await response.json();
 
@@ -65,7 +64,7 @@ const WeatherApp = () => {
   useEffect( () => {
     // Fetch weather data using "Manchester" as the initial city when component mounts
     async function fetchData() {
-    let url = `https://api.openweathermap.org/data/2.5/weather?q=manchester&appid=${apiKey}`;
+    let url = `http://localhost:9001/api/v1/weather/manchester`;
     let response = await fetch(url);
     let data = await response.json();
 
